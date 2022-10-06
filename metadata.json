@@ -1,0 +1,8 @@
+{
+  "name": "HumanFX Controller",
+  "description": "Controls keyboard backlight via HumanFX",
+  "uuid": "humanfxcontroller@porsch.duckdns.org",
+  "shell-version": [
+    "42"
+  ]
+}
